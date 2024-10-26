@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="cap S.svg"
+   sodipodi:docname="cap s.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.84096521"
-     inkscape:cx="422.13399"
-     inkscape:cy="567.20539"
+     inkscape:cx="362.6785"
+     inkscape:cy="384.08248"
      inkscape:window-width="1648"
      inkscape:window-height="1332"
      inkscape:window-x="164"
@@ -50,7 +50,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       d="m 250,650 c 50,75 125,100 200,99.99996 C 575,749.99989 650,687.5 650,600 650,537.5 600,450 450,450 300,450 250,362.5 250,300 250,212.5 325,150.00011 450,150.00004 525,150 600,175 650,250"
+       d="m 250,650 c 50,75 125,100 200,99.99996 C 575,749.99989 650,675 650,600 650,525 600,450 450,450 300,450 250,375 250,300 250,225 325,150.00011 450,150.00004 525,150 600,175 650,250"
        style="fill:none;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path393"
        sodipodi:nodetypes="csczcsc" />
