@@ -6,7 +6,7 @@ GLYPH_FOLDER = "temp\\outlines"
 TEMP_FOLDER = "temp"
 EM_SIZE = 1000
 STROKE_THICKNESS = 100
-MASTER_FONT = "QuadrillionMonoline.sfd"
+MASTER_FONT = "QuadrillionMonoline-Regular.sfd"
 
 qs_unicodes = {}
 with open(NAME_LIST) as name_list:
@@ -23,6 +23,8 @@ master = fontforge.open(MASTER_FONT)
 source_files = os.listdir(GLYPH_FOLDER)
 for source in source_files:
     name = source[:-4]
+    if name.startswith("cap "):
+        name = name[4:].upper()
     font.createChar(qs_unicodes[name] if name in qs_unicodes else fontforge.unicodeFromName(name), name)
     font[name].importOutlines(GLYPH_FOLDER + "\\" + source, scale=False)
     font[name].addExtrema()
