@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.84096521"
-     inkscape:cx="331.76164"
-     inkscape:cy="510.12812"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="105.94428"
+     inkscape:cy="504.49658"
      inkscape:window-width="1648"
      inkscape:window-height="1332"
      inkscape:window-x="270"
@@ -51,7 +51,7 @@
      id="layer1">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 650,150 V 550.00004 C 650,650.00004 575,750 450,750 413.04433,750 377.56902,739.89711 350,725"
+       d="m 650,150 v 450 c 0,75 -50,150 -125,150 -75,0 -100,-25 -125,-50"
        id="path4836"
        sodipodi:nodetypes="ccsc" />
   </g>
