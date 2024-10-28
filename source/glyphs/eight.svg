@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="eight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="830.73769"
+     inkscape:cy="558.30954"
+     inkscape:window-width="1648"
+     inkscape:window-height="1332"
+     inkscape:window-x="1026"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       spacingx="12.5"
+       spacingy="12.5"
+       empspacing="8"
+       dotted="false"
+       originx="500"
+       originy="500" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 650,587.5 V 600 c 0,87.5 -75,150 -150,150 -75,0 -150,-62.5 -150,-150 v -12.5 c 0,-87.5 75,-150 150,-150 75,0 150,62.5 150,150 z"
+       id="path5467"
+       sodipodi:nodetypes="cczcczc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 637.5,293.75 C 637.5,375 575,437.5 500,437.5 425,437.5 362.5,375 362.5,293.75 362.5,212.5 425,150 500,150 c 75,0 137.5,62.5 137.5,143.75 z"
+       id="path1067"
+       sodipodi:nodetypes="szszs" />
+  </g>
+</svg>
