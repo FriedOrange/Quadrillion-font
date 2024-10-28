@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730109811
+ModificationTime: 1730110406
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 110
+BeginChars: 1114112 111
 
 StartChar: A
 Encoding: 65 65 0
@@ -2313,8 +2313,17 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uniE66A
+Encoding: 58986 58986 93
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 90 58983 N -1 0 0 1 500 0 2
+EndChar
+
 StartChar: uniE670
-Encoding: 58992 58992 93
+Encoding: 58992 58992 94
 Width: 200
 Flags: HMW
 LayerCount: 2
@@ -2331,7 +2340,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE671
-Encoding: 58993 58993 94
+Encoding: 58993 58993 95
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2354,16 +2363,16 @@ EndSplineSet
 EndChar
 
 StartChar: uniE672
-Encoding: 58994 58994 95
+Encoding: 58994 58994 96
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 103 59002 N 1 0 0 -1 0 500 2
+Refer: 104 59002 N 1 0 0 -1 0 500 2
 EndChar
 
 StartChar: uniE673
-Encoding: 58995 58995 96
+Encoding: 58995 58995 97
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2393,25 +2402,25 @@ EndSplineSet
 EndChar
 
 StartChar: uniE674
-Encoding: 58996 58996 97
+Encoding: 58996 58996 98
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 103 59002 N -1 0 0 -1 400 500 2
+Refer: 104 59002 N -1 0 0 -1 400 500 2
 EndChar
 
 StartChar: uniE675
-Encoding: 58997 58997 98
+Encoding: 58997 58997 99
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 96 58995 N -1 0 0 1 400 0 2
+Refer: 97 58995 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE676
-Encoding: 58998 58998 99
+Encoding: 58998 58998 100
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2432,34 +2441,34 @@ EndSplineSet
 EndChar
 
 StartChar: uniE677
-Encoding: 58999 58999 100
+Encoding: 58999 58999 101
 Width: 500
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 99 58998 N 1 0 -0 -1 0 500 2
+Refer: 100 58998 N 1 0 -0 -1 0 500 2
 EndChar
 
 StartChar: uniE678
-Encoding: 59000 59000 101
+Encoding: 59000 59000 102
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 103 59002 N -1 0 0 1 400 0 2
+Refer: 104 59002 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE679
-Encoding: 59001 59001 102
+Encoding: 59001 59001 103
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 104 59003 N -1 0 0 1 400 0 2
+Refer: 105 59003 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE67A
-Encoding: 59002 59002 103
+Encoding: 59002 59002 104
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2478,7 +2487,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE67B
-Encoding: 59003 59003 104
+Encoding: 59003 59003 105
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2505,7 +2514,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE67C
-Encoding: 59004 59004 105
+Encoding: 59004 59004 106
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2514,16 +2523,16 @@ Refer: 41 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniE67D
-Encoding: 59005 59005 106
+Encoding: 59005 59005 107
 Width: 500
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 107 59006 N -1 0 0 -1 500 500 2
+Refer: 108 59006 N -1 0 0 -1 500 500 2
 EndChar
 
 StartChar: uniE67E
-Encoding: 59006 59006 107
+Encoding: 59006 59006 108
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2546,7 +2555,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE650
-Encoding: 58960 58960 108
+Encoding: 58960 58960 109
 Width: 450
 Flags: MW
 LayerCount: 2
@@ -2569,7 +2578,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE651
-Encoding: 58961 58961 109
+Encoding: 58961 58961 110
 Width: 500
 Flags: MW
 LayerCount: 2
