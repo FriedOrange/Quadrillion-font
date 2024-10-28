@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730108594
+ModificationTime: 1730109811
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 102
+BeginChars: 1114112 110
 
 StartChar: A
 Encoding: 65 65 0
@@ -2034,8 +2034,94 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uniE660
+Encoding: 58976 58976 83
+Width: 500
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+250 800 m 0
+ 353 800 450 716 450 600 c 0
+ 450 484 353 400 250 400 c 2
+ 150 400 l 1
+ 150 50 l 2
+ 150 22 128 0 100 0 c 0
+ 72 0 50 22 50 50 c 0
+ 50 233 50 417 50 600 c 0
+ 50 716 147 800 250 800 c 0
+250 700 m 0
+ 203 700 150 659 150 600 c 2
+ 150 500 l 1
+ 250 500 l 2
+ 297 500 350 541 350 600 c 0
+ 350 659 297 700 250 700 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE661
+Encoding: 58977 58977 84
+Width: 400
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+300 500 m 0
+ 330 500 350 476 350 450 c 0
+ 350 445 349 440 348 436 c 2
+ 148 -264 l 2
+ 142 -285 123 -300 100 -300 c 0
+ 70 -300 50 -276 50 -250 c 0
+ 50 -245 51 -240 52 -236 c 2
+ 252 464 l 2
+ 258 484 276 500 300 500 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE662
+Encoding: 58978 58978 85
+Width: 400
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+300 800 m 0
+ 328 800 350 778 350 750 c 0
+ 350 722 328 700 300 700 c 0
+ 217 700 150 633 150 550 c 2
+ 150 50 l 2
+ 150 22 128 0 100 0 c 0
+ 72 0 50 22 50 50 c 2
+ 50 550 l 2
+ 50 687 163 800 300 800 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE663
+Encoding: 58979 58979 86
+Width: 550
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+450 500 m 0
+ 480 500 500 476 500 450 c 0
+ 500 445 499 440 498 436 c 2
+ 298 -264 l 2
+ 292 -285 273 -300 250 -300 c 0
+ 230 -300 213 -288 205 -272 c 2
+ 55 28 l 2
+ 52 35 50 42 50 50 c 0
+ 50 76 71 100 100 100 c 0
+ 120 100 137 88 145 72 c 2
+ 237 -113 l 1
+ 402 464 l 2
+ 408 484 426 500 450 500 c 0
+EndSplineSet
+EndChar
+
 StartChar: uniE664
-Encoding: 58980 58980 83
+Encoding: 58980 58980 87
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2069,7 +2155,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE665
-Encoding: 58981 58981 84
+Encoding: 58981 58981 88
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2101,7 +2187,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE666
-Encoding: 58982 58982 85
+Encoding: 58982 58982 89
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -2144,8 +2230,36 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uniE667
+Encoding: 58983 58983 90
+Width: 500
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+400 500 m 0
+ 428 500 450 478 450 450 c 2
+ 450 400 l 2
+ 450 316 400 250 333 219 c 1
+ 344 198 350 175 350 150 c 0
+ 350 68 282 0 200 0 c 2
+ 100 0 l 2
+ 72 0 50 22 50 50 c 0
+ 50 78 72 100 100 100 c 2
+ 200 100 l 2
+ 228 100 250 122 250 150 c 0
+ 250 178 228 200 200 200 c 0
+ 173 200 151 223 151 250 c 0
+ 151 277 173 300 200 300 c 2
+ 250 300 l 2
+ 297 300 350 341 350 400 c 2
+ 350 450 l 2
+ 350 478 372 500 400 500 c 0
+EndSplineSet
+EndChar
+
 StartChar: uniE668
-Encoding: 58984 58984 86
+Encoding: 58984 58984 91
 Width: 450
 Flags: HMW
 LayerCount: 2
@@ -2167,8 +2281,40 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uniE669
+Encoding: 58985 58985 92
+Width: 600
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+300 800 m 0
+ 328 800 350 778 350 750 c 2
+ 350 500 l 1
+ 453 500 550 416 550 300 c 2
+ 550 200 l 2
+ 550 84 453 0 350 0 c 2
+ 250 0 l 2
+ 147 0 50 84 50 200 c 2
+ 50 300 l 2
+ 50 416 147 500 250 500 c 1
+ 250 750 l 2
+ 250 778 272 800 300 800 c 0
+250 400 m 1
+ 203 400 150 359 150 300 c 2
+ 150 200 l 2
+ 150 141 203 100 250 100 c 1
+ 250 400 l 1
+350 400 m 1
+ 350 100 l 1
+ 397 100 450 141 450 200 c 2
+ 450 300 l 2
+ 450 359 397 400 350 400 c 1
+EndSplineSet
+EndChar
+
 StartChar: uniE670
-Encoding: 58992 58992 87
+Encoding: 58992 58992 93
 Width: 200
 Flags: HMW
 LayerCount: 2
@@ -2185,7 +2331,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE671
-Encoding: 58993 58993 88
+Encoding: 58993 58993 94
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2208,16 +2354,16 @@ EndSplineSet
 EndChar
 
 StartChar: uniE672
-Encoding: 58994 58994 89
+Encoding: 58994 58994 95
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 97 59002 N 1 0 0 -1 0 500 2
+Refer: 103 59002 N 1 0 0 -1 0 500 2
 EndChar
 
 StartChar: uniE673
-Encoding: 58995 58995 90
+Encoding: 58995 58995 96
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2247,25 +2393,25 @@ EndSplineSet
 EndChar
 
 StartChar: uniE674
-Encoding: 58996 58996 91
+Encoding: 58996 58996 97
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 97 59002 N -1 0 0 -1 400 500 2
+Refer: 103 59002 N -1 0 0 -1 400 500 2
 EndChar
 
 StartChar: uniE675
-Encoding: 58997 58997 92
+Encoding: 58997 58997 98
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 90 58995 N -1 0 0 1 400 0 2
+Refer: 96 58995 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE676
-Encoding: 58998 58998 93
+Encoding: 58998 58998 99
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2286,34 +2432,34 @@ EndSplineSet
 EndChar
 
 StartChar: uniE677
-Encoding: 58999 58999 94
+Encoding: 58999 58999 100
 Width: 500
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 93 58998 N 1 0 -0 -1 0 500 2
+Refer: 99 58998 N 1 0 -0 -1 0 500 2
 EndChar
 
 StartChar: uniE678
-Encoding: 59000 59000 95
+Encoding: 59000 59000 101
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 97 59002 N -1 0 0 1 400 0 2
+Refer: 103 59002 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE679
-Encoding: 59001 59001 96
+Encoding: 59001 59001 102
 Width: 400
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 98 59003 N -1 0 0 1 400 0 2
+Refer: 104 59003 N -1 0 0 1 400 0 2
 EndChar
 
 StartChar: uniE67A
-Encoding: 59002 59002 97
+Encoding: 59002 59002 103
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2332,7 +2478,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE67B
-Encoding: 59003 59003 98
+Encoding: 59003 59003 104
 Width: 400
 Flags: HMW
 LayerCount: 2
@@ -2359,7 +2505,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE67C
-Encoding: 59004 59004 99
+Encoding: 59004 59004 105
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2368,16 +2514,16 @@ Refer: 41 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniE67D
-Encoding: 59005 59005 100
+Encoding: 59005 59005 106
 Width: 500
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 101 59006 N -1 0 0 -1 500 500 2
+Refer: 107 59006 N -1 0 0 -1 500 500 2
 EndChar
 
 StartChar: uniE67E
-Encoding: 59006 59006 101
+Encoding: 59006 59006 107
 Width: 500
 Flags: HMW
 LayerCount: 2
@@ -2396,6 +2542,55 @@ SplineSet
  72 0 50 22 50 50 c 2
  50 300 l 2
  50 416 147 500 250 500 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE650
+Encoding: 58960 58960 108
+Width: 450
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+300 800 m 2
+ 350 800 l 2
+ 378 800 400 778 400 750 c 2
+ 400 50 l 2
+ 400 22 378 0 350 0 c 0
+ 322 0 300 22 300 50 c 2
+ 300 700 l 1
+ 217 700 150 633 150 550 c 2
+ 150 450 l 2
+ 150 422 128 400 100 400 c 0
+ 72 400 50 422 50 450 c 2
+ 50 550 l 2
+ 50 687 163 800 300 800 c 2
+EndSplineSet
+EndChar
+
+StartChar: uniE651
+Encoding: 58961 58961 109
+Width: 500
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+400 500 m 0
+ 428 500 450 478 450 450 c 0
+ 450 217 450 -17 450 -250 c 0
+ 450 -278 428 -300 400 -300 c 2
+ 250 -300 l 2
+ 147 -300 50 -216 50 -100 c 0
+ 50 16 147 100 250 100 c 2
+ 350 100 l 1
+ 350 450 l 2
+ 350 478 372 500 400 500 c 0
+250 0 m 2
+ 203 0 150 -41 150 -100 c 0
+ 150 -159 203 -200 250 -200 c 2
+ 350 -200 l 1
+ 350 0 l 1
+ 250 0 l 2
 EndSplineSet
 EndChar
 EndChars
