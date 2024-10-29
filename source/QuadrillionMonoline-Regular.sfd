@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730110406
+ModificationTime: 1730206428
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -52,7 +52,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 111
+BeginChars: 1114112 116
 
 StartChar: A
 Encoding: 65 65 0
@@ -2316,7 +2316,7 @@ EndChar
 StartChar: uniE66A
 Encoding: 58986 58986 93
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 90 58983 N -1 0 0 1 500 0 2
@@ -2601,6 +2601,93 @@ SplineSet
  350 0 l 1
  250 0 l 2
 EndSplineSet
+EndChar
+
+StartChar: uniE65C
+Encoding: 58972 58972 111
+Width: 450
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+350 800 m 0
+ 379 800 400 777 400 750 c 0
+ 400 741 398 732 393 724 c 2
+ 181 376 l 1
+ 168 351 150 313 150 250 c 0
+ 150 190 165 157 188 135 c 0
+ 211 113 246 100 300 100 c 2
+ 350 100 l 2
+ 378 100 400 78 400 50 c 0
+ 400 22 378 0 350 0 c 2
+ 300 0 l 2
+ 229 0 165 18 119 62 c 0
+ 73 106 50 172 50 250 c 0
+ 50 338 80 401 95 426 c 2
+ 307 776 l 2
+ 315 790 330 800 350 800 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE657
+Encoding: 58967 58967 112
+Width: 450
+VWidth: 700
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 111 58972 N 1 0 0 1 0 -300 2
+EndChar
+
+StartChar: uniE656
+Encoding: 58966 58966 113
+Width: 450
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 111 58972 N -1 0 0 -1 450 800 2
+EndChar
+
+StartChar: uniE65E
+Encoding: 58974 58974 114
+Width: 550
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+450 800 m 0
+ 479 800 500 779 500 750 c 0
+ 500 739 497 731 493 724 c 0
+ 423 608 351 492 281 376 c 1
+ 268 351 250 313 250 250 c 0
+ 250 190 265 157 288 135 c 0
+ 311 113 346 100 400 100 c 2
+ 450 100 l 2
+ 478 100 500 78 500 50 c 0
+ 500 22 478 0 450 0 c 2
+ 400 0 l 2
+ 329 0 265 18 219 62 c 0
+ 173 106 150 172 150 250 c 0
+ 150 318 169 371 183 402 c 1
+ 172 401 161 400 150 400 c 2
+ 100 400 l 2
+ 72 400 50 422 50 450 c 0
+ 50 478 72 500 100 500 c 2
+ 150 500 l 2
+ 190 500 213 506 233 519 c 0
+ 253 532 274 557 301 601 c 2
+ 407 776 l 2
+ 415 790 430 800 450 800 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE65F
+Encoding: 58975 58975 115
+Width: 550
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 114 58974 N -1 0 0 -1 550 500 2
 EndChar
 EndChars
 EndSplineFont
