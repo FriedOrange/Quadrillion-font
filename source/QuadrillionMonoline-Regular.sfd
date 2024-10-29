@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730206428
+ModificationTime: 1730207794
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 58928 16 8
+WinInfo: 16 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -52,7 +52,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 116
+BeginChars: 1114112 117
 
 StartChar: A
 Encoding: 65 65 0
@@ -2688,6 +2688,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 Refer: 114 58974 N -1 0 0 -1 550 500 2
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 116
+Width: 224
+VWidth: 1200
+Flags: W
+LayerCount: 2
+Fore
+Refer: 54 46 N 1 0 0 1 0 200 2
 EndChar
 EndChars
 EndSplineFont
