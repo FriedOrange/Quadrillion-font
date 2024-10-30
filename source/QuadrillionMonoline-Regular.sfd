@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730207794
+ModificationTime: 1730292294
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 8
+WinInfo: 58928 16 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -52,7 +52,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 117
+BeginChars: 1114112 119
 
 StartChar: A
 Encoding: 65 65 0
@@ -2698,6 +2698,54 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 54 46 N 1 0 0 1 0 200 2
+EndChar
+
+StartChar: uniE65A
+Encoding: 58970 58970 117
+Width: 400
+Flags: W
+HStem: 0 100<58.4375 206.705> 700 100<193.295 341.562>
+VStem: 50 100<483.903 656.713> 250 100<143.287 316.097>
+LayerCount: 2
+Fore
+SplineSet
+250 800 m 2
+ 300 800 l 2
+ 328 800 350 778 350 750 c 0
+ 350 722 328 700 300 700 c 2
+ 250 700 l 2
+ 203 700 150 659 150 600 c 2
+ 150 550 l 2
+ 150 516 158 501 170 486 c 0
+ 182 471 201 458 226 442 c 0
+ 251 426 282 409 307 378 c 0
+ 332 347 350 303 350 250 c 2
+ 350 200 l 2
+ 350 84 253 0 150 0 c 2
+ 100 0 l 2
+ 72 0 50 22 50 50 c 0
+ 50 78 72 100 100 100 c 2
+ 150 100 l 2
+ 197 100 250 141 250 200 c 2
+ 250 250 l 2
+ 250 284 242 299 230 314 c 0
+ 218 329 199 342 174 358 c 0
+ 149 374 118 391 93 422 c 0
+ 68 453 50 497 50 550 c 2
+ 50 600 l 2
+ 50 716 147 800 250 800 c 2
+EndSplineSet
+EndChar
+
+StartChar: uniE65B
+Encoding: 58971 58971 118
+Width: 400
+Flags: W
+HStem: -300 100<193.295 341.562> 400 100<58.4375 206.705>
+VStem: 50 100<-156.713 16.0967> 250 100<183.903 356.713>
+LayerCount: 2
+Fore
+Refer: 117 58970 N -1 0 0 1 400 -300 2
 EndChar
 EndChars
 EndSplineFont
