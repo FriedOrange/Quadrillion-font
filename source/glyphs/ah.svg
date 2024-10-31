@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.84096521"
-     inkscape:cx="303.22301"
+     inkscape:cx="304.41212"
      inkscape:cy="655.19952"
      inkscape:window-width="1648"
      inkscape:window-height="1332"
@@ -51,8 +51,8 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 500,350 c -75,0 -150,62.5 -150,150 v 100 c 0,87.5 -75,150 -150,150"
-       id="path5467"
+       d="m 850,350 c -50,0 -100,37.5 -100,100 v 200 c 0,62.5 -50,100 -100,100"
+       id="path5467-5"
        sodipodi:nodetypes="cccc" />
   </g>
 </svg>
