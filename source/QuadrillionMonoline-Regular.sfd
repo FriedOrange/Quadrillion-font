@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730457691
+ModificationTime: 1730459817
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -60,7 +60,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114113 121
+BeginChars: 1114113 125
 
 StartChar: A
 Encoding: 65 65 0
@@ -2817,6 +2817,83 @@ SplineSet
  470 50 l 1
  300 305 l 1
 EndSplineSet
+EndChar
+
+StartChar: uniE66E
+Encoding: 58990 58990 121
+Width: 350
+Flags: W
+HStem: -300 100<158 291.562>
+VStem: 50 250<-291.562 -208.438> 201 99<710.333 791.299>
+LayerCount: 2
+Fore
+SplineSet
+250 800 m 0xa0
+ 279 800 300 777 300 750 c 0xa0
+ 300 747 299 745 299 743 c 2
+ 158 -200 l 1
+ 250 -200 l 2
+ 278 -200 300 -222 300 -250 c 0
+ 300 -278 278 -300 250 -300 c 2
+ 100 -300 l 2
+ 72 -300 50 -278 50 -250 c 0xc0
+ 50 -247 51 -245 51 -243 c 2
+ 201 757 l 2
+ 205 781 225 800 250 800 c 0xa0
+EndSplineSet
+EndChar
+
+StartChar: uniE66F
+Encoding: 58991 58991 122
+Width: 350
+Flags: W
+HStem: 700 100<58.4375 192>
+VStem: 50 99<-291.299 -210.333> 50 250<708.438 791.562>
+LayerCount: 2
+Fore
+Refer: 121 58990 N -1 0 0 -1 350 500 2
+EndChar
+
+StartChar: uniE66B
+Encoding: 58987 58987 123
+Width: 550
+Flags: W
+HStem: 0 21G<185.5 209 440 464.5> 0 21G<185.5 209 440 464.5> 480 20G<441 464.5>
+LayerCount: 2
+Fore
+SplineSet
+50 750 m 0xa0
+ 50 776 71 800 100 800 c 0
+ 120 800 137 788 145 772 c 2
+ 344 374 l 1
+ 408 476 l 2
+ 417 490 432 500 450 500 c 0
+ 479 500 500 477 500 450 c 0
+ 500 440 497 432 492 424 c 2
+ 396 270 l 1
+ 495 72 l 2
+ 498 65 500 58 500 50 c 0
+ 500 24 479 0 450 0 c 0
+ 430 0 413 12 405 28 c 2
+ 334 170 l 1
+ 242 24 l 2
+ 233 10 218 0 200 0 c 0
+ 171 0 150 23 150 50 c 0
+ 150 60 153 68 158 76 c 2
+ 282 275 l 1
+ 55 728 l 2
+ 52 735 50 742 50 750 c 0xa0
+EndSplineSet
+EndChar
+
+StartChar: uniE66C
+Encoding: 58988 58988 124
+Width: 550
+Flags: W
+HStem: 0 20G<85.5 109> 479 21G<85.5 110 85.5 110 341 364.5 341 364.5>
+LayerCount: 2
+Fore
+Refer: 123 58987 N -1 0 0 -1 550 500 2
 EndChar
 EndChars
 EndSplineFont
