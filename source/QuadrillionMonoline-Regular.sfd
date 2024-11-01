@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730457236
+ModificationTime: 1730457691
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2355,18 +2355,17 @@ LayerCount: 2
 Fore
 SplineSet
 100 0 m 0
- 70 0 50 24 50 50 c 0
- 50 56 51 63 53 68 c 2
- 203 468 l 2
- 210 486 227 500 250 500 c 0
- 273 500 290 487 297 468 c 2
- 447 68 l 2
- 449 63 450 56 450 50 c 0
- 450 24 430 0 400 0 c 0
- 379 0 360 13 353 32 c 2
- 250 308 l 1
- 147 32 l 2
- 140 13 121 0 100 0 c 0
+ 71 0 50 23 50 50 c 0
+ 50 61 54 72 60 80 c 2
+ 360 480 l 2
+ 369 492 382 500 400 500 c 0
+ 429 500 450 477 450 450 c 2
+ 450 50 l 2
+ 450 22 428 0 400 0 c 0
+ 372 0 350 22 350 50 c 2
+ 350 300 l 1
+ 140 20 l 2
+ 131 8 116 0 100 0 c 0
 EndSplineSet
 EndChar
 
@@ -2702,7 +2701,7 @@ StartChar: periodcentered
 Encoding: 183 183 116
 Width: 224
 VWidth: 1200
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 54 46 N 1 0 0 1 0 200 2
@@ -2711,9 +2710,7 @@ EndChar
 StartChar: uniE65A
 Encoding: 58970 58970 117
 Width: 400
-Flags: W
-HStem: 0 100<58.4375 206.705> 700 100<193.295 341.562>
-VStem: 50 100<483.903 656.713> 250 100<143.287 316.097>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2748,9 +2745,7 @@ EndChar
 StartChar: uniE65B
 Encoding: 58971 58971 118
 Width: 400
-Flags: W
-HStem: -300 100<193.295 341.562> 400 100<58.4375 206.705>
-VStem: 50 100<-156.713 16.0967> 250 100<183.903 356.713>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 117 58970 N -1 0 0 1 400 -300 2
@@ -2759,7 +2754,7 @@ EndChar
 StartChar: uniE655
 Encoding: 58965 58965 119
 Width: 500
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -2792,7 +2787,7 @@ StartChar: .notdef
 Encoding: 1114112 -1 120
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
