@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1729927510
-ModificationTime: 1730375564
+ModificationTime: 1730456712
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -60,7 +60,7 @@ Grid
  2000 500.166748047 l 1024
   Named: "x-height"
 EndSplineSet
-BeginChars: 1114112 119
+BeginChars: 1114112 120
 
 StartChar: A
 Encoding: 65 65 0
@@ -2754,6 +2754,38 @@ VStem: 50 100<-156.713 16.0967> 250 100<183.903 356.713>
 LayerCount: 2
 Fore
 Refer: 117 58970 N -1 0 0 1 400 -300 2
+EndChar
+
+StartChar: uniE655
+Encoding: 58965 58965 119
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+438 400 m 0
+ 438 372 415 350 387 350 c 0
+ 373 350 361 356 352 365 c 0
+ 319 398 294 400 264 400 c 0
+ 259 400 255 400 250 400 c 0
+ 203 400 150 359 150 300 c 2
+ 150 200 l 2
+ 150 141 203 100 250 100 c 0
+ 353 100 450 16 450 -100 c 0
+ 450 -216 353 -300 250 -300 c 0
+ 147 -300 50 -216 50 -100 c 0
+ 50 -40 76 14 118 51 c 1
+ 77 87 50 139 50 200 c 2
+ 50 300 l 2
+ 50 416 147 500 250 500 c 0
+ 288 500 361 497 423 435 c 0
+ 432 426 438 414 438 400 c 0
+250 0 m 0
+ 186 0 150 -36 150 -100 c 0
+ 150 -159 203 -200 250 -200 c 0
+ 297 -200 350 -159 350 -100 c 0
+ 350 -41 297 0 250 0 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
