@@ -34,7 +34,7 @@ for source in source_files:
         font[name].left_side_bearing = int(master[name].left_side_bearing)
         font[name].right_side_bearing = int(master[name].right_side_bearing)
     except:
-        font[name].left_side_bearing = STROKE_THICKNESS // 2
-        font[name].right_side_bearing = STROKE_THICKNESS // 2
+        font[name].left_side_bearing = STROKE_THICKNESS // 1.6
+        font[name].right_side_bearing = STROKE_THICKNESS // 1.6
 
 font.save(TEMP_FOLDER + "\\step1.sfd")
